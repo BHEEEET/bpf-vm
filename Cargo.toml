@@ -1,0 +1,9 @@
+[workspace]
+members = ["rbpf", "zbpf"]
+
+[workspace.package]
+name = "bpf-vm"
+version = "0.1.0"
+edition = "2024"
+
+[workspace.dependencies]

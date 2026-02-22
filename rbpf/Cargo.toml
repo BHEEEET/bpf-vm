@@ -1,0 +1,8 @@
+[package]
+name = "rbpf"
+version = {workspace = true}
+edition = {workspace = true}
+
+[dependencies]
+rbpf = "0.4.1"
+elf = "0.8.0"
